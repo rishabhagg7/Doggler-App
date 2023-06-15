@@ -1,0 +1,92 @@
+06-16 01:41:48.907  6516  6537 I TestRunner: started: recycler_view_item_count(com.example.dogglers.HorizontalListTests)
+06-16 01:41:48.916  6516  6537 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-16 01:41:48.959  6516  6541 D libEGL  : loaded /vendor/lib64/egl/libEGL_emulation.so
+06-16 01:41:48.959   330   377 D goldfish-address-space: claimShared: Ask to claim region [0x1f0f6c000 0x1f18d4000]
+06-16 01:41:48.961  6516  6541 D libEGL  : loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+06-16 01:41:48.962   330   377 D goldfish-address-space: claimShared: Ask to claim region [0x1f18d4000 0x1f223c000]
+06-16 01:41:48.963   330   377 D goldfish-address-space: claimShared: Ask to claim region [0x1f6c84000 0x1f75ec000]
+06-16 01:41:48.963  6516  6541 D libEGL  : loaded /vendor/lib64/egl/libGLESv2_emulation.so
+06-16 01:41:48.999  1028  1417 D EGL_emulation: app_time_stats: avg=1161.44ms min=1161.44ms max=1161.44ms count=1
+06-16 01:41:49.020   697   928 D EGL_emulation: app_time_stats: avg=716.54ms min=8.68ms max=12280.21ms count=18
+06-16 01:41:49.024  6516  6516 D AppCompatDelegate: Checking for metadata for AppLocalesMetadataHolderService : Service not found
+06-16 01:41:49.024   697   928 D EGL_emulation: app_time_stats: avg=713.47ms min=4.58ms max=12267.83ms count=18
+06-16 01:41:49.031  6516  6516 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@34a3c6e in: PRE_ON_CREATE
+06-16 01:41:49.033  6516  6516 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+06-16 01:41:49.049  1314  1314 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+06-16 01:41:49.049  1314  1314 E HwDetectorWithState: a: 3
+06-16 01:41:49.128  6516  6516 W xample.doggler: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+06-16 01:41:49.128  6516  6516 W xample.doggler: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+06-16 01:41:49.146  6516  6516 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@34a3c6e in: CREATED
+06-16 01:41:49.146  6516  6516 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.dogglers.HorizontalListActivity@34a3c6e
+06-16 01:41:49.148  6516  6516 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@34a3c6e in: STARTED
+06-16 01:41:49.148  6516  6516 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.dogglers.HorizontalListActivity@34a3c6e
+06-16 01:41:49.150  6516  6516 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@34a3c6e in: RESUMED
+06-16 01:41:49.150  6516  6516 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.dogglers.HorizontalListActivity@34a3c6e
+06-16 01:41:49.228  6516  6539 D HostConnection: createUnique: call
+06-16 01:41:49.233  6516  6539 D HostConnection: HostConnection::get() New Host Connection established 0xb400007d8b8bdd50, tid 6539
+06-16 01:41:49.238  6516  6539 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri ANDROID_EMU_read_color_buffer_dma GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+06-16 01:41:49.241   180   180 I hwservicemanager: getTransport: Cannot find entry android.hardware.configstore@1.0::ISurfaceFlingerConfigs/default in either framework or device VINTF manifest.
+06-16 01:41:49.241  6516  6539 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+06-16 01:41:49.242  6516  6539 W OpenGLRenderer: Failed to initialize 101010-2 format, error = EGL_SUCCESS
+06-16 01:41:49.243  6516  6539 D EGL_emulation: eglCreateContext: 0xb400007d8b8bf010: maj 3 min 0 rcv 3
+06-16 01:41:49.244  6516  6539 D EGL_emulation: eglMakeCurrent: 0xb400007d8b8bf010: ver 3 0 (tinfo 0x7f9d57c080) (first time)
+06-16 01:41:49.253   363   453 E HWComposer: getSupportedContentTypes: getSupportedContentTypes failed for display 4619827259835644672: Unsupported (8)
+06-16 01:41:49.254   180   180 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+06-16 01:41:49.255  6516  6539 I Gralloc4: mapper 4.x is not supported
+06-16 01:41:49.257  6516  6539 D HostConnection: createUnique: call
+06-16 01:41:49.258  6516  6539 D HostConnection: HostConnection::get() New Host Connection established 0xb400007d8b8bfc10, tid 6539
+06-16 01:41:49.258  6516  6539 D goldfish-address-space: allocate: Ask for block of size 0x100
+06-16 01:41:49.258  6516  6539 D goldfish-address-space: allocate: ioctl allocate returned offset 0x1efff8000 size 0x8000
+06-16 01:41:49.260   180   180 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.allocator@4.0::IAllocator/default in either framework or device VINTF manifest.
+06-16 01:41:49.260  6516  6539 W Gralloc4: allocator 4.x is not supported
+06-16 01:41:49.262   330   377 D goldfish-address-space: claimShared: Ask to claim region [0x1f8000000 0x1f8968000]
+06-16 01:41:49.268  6516  6539 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri ANDROID_EMU_read_color_buffer_dma GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+06-16 01:41:49.269   330   377 D goldfish-address-space: claimShared: Ask to claim region [0x1f8968000 0x1f92d0000]
+06-16 01:41:49.270   330   377 D goldfish-address-space: claimShared: Ask to claim region [0x1f92d0000 0x1f9c38000]
+06-16 01:41:49.292  1520  1520 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=83, right=0, bottom=132}
+06-16 01:41:49.292  1520  1520 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=83, right=0, bottom=132}
+06-16 01:41:49.331   525   540 I ActivityTaskManager: Displayed com.example.dogglers/.HorizontalListActivity: +403ms
+06-16 01:41:49.384  1261  1261 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3306
+06-16 01:41:49.392  1261  1261 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2127 repeatCheckTimes = 0, locked = false
+06-16 01:41:49.392  1261  1261 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1909 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null hintLocales=[]}, false)
+06-16 01:41:49.392  1261  1261 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():1990 ShouldHideHeaderOnInitialState = false
+06-16 01:41:49.393  1261  1261 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2127 repeatCheckTimes = 1, locked = false
+06-16 01:41:49.415  6516  6537 W FileTestStorage: Output properties is not supported.
+06-16 01:41:49.416  6516  6537 I Tracing : Tracer added: class androidx.test.platform.tracing.AndroidXTracer
+06-16 01:41:49.424  6516  6537 D EventInjectionStrategy: Creating injection strategy with input manager.
+06-16 01:41:49.424  6516  6537 W xample.doggler: Accessing hidden method Landroid/hardware/input/InputManager;->getInstance()Landroid/hardware/input/InputManager; (unsupported, reflection, allowed)
+06-16 01:41:49.424  6516  6537 W xample.doggler: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (unsupported, reflection, allowed)
+06-16 01:41:49.424  6516  6537 W xample.doggler: Accessing hidden field Landroid/hardware/input/InputManager;->INJECT_INPUT_EVENT_MODE_WAIT_FOR_FINISH:I (unsupported, reflection, allowed)
+06-16 01:41:49.433   363   363 W SurfaceFlinger: couldn't log to binary event log: overflow.
+06-16 01:41:49.433   363   363 W SurfaceFlinger: couldn't log to binary event log: overflow.
+06-16 01:41:49.435  6516  6516 W xample.doggler: Accessing hidden method Landroid/os/MessageQueue;->next()Landroid/os/Message; (unsupported, reflection, allowed)
+06-16 01:41:49.435  6516  6516 W xample.doggler: Accessing hidden field Landroid/os/MessageQueue;->mMessages:Landroid/os/Message; (unsupported, reflection, allowed)
+06-16 01:41:49.435  6516  6516 W xample.doggler: Accessing hidden method Landroid/os/Message;->recycleUnchecked()V (unsupported, reflection, allowed)
+06-16 01:41:49.436  6516  6516 W xample.doggler: Accessing hidden method Landroid/view/WindowManagerGlobal;->getInstance()Landroid/view/WindowManagerGlobal; (unsupported, reflection, allowed)
+06-16 01:41:49.436  6516  6516 W xample.doggler: Accessing hidden field Landroid/view/WindowManagerGlobal;->mViews:Ljava/util/ArrayList; (unsupported, reflection, allowed)
+06-16 01:41:49.436  6516  6516 W xample.doggler: Accessing hidden field Landroid/view/WindowManagerGlobal;->mParams:Ljava/util/ArrayList; (unsupported, reflection, allowed)
+06-16 01:41:49.439  6516  6516 I ViewInteraction: Checking 'com.example.dogglers.BaseTest$DrawableMatcher$RecyclerViewAssertion@b9dca43' assertion on view view.getId() is <2131230942/com.example.dogglers:id/horizontal_recycler_view>
+06-16 01:41:49.452  6516  6516 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@34a3c6e in: PAUSED
+06-16 01:41:49.452  6516  6516 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.dogglers.HorizontalListActivity@34a3c6e
+06-16 01:41:49.470  6516  6516 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@87c3ebb in: PRE_ON_CREATE
+06-16 01:41:49.471  6516  6516 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@87c3ebb
+06-16 01:41:49.476  6516  6516 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@87c3ebb in: CREATED
+06-16 01:41:49.477  6516  6516 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@87c3ebb
+06-16 01:41:49.478  6516  6516 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@87c3ebb in: STARTED
+06-16 01:41:49.479  6516  6516 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@87c3ebb
+06-16 01:41:49.480  6516  6516 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@87c3ebb in: RESUMED
+06-16 01:41:49.480  6516  6516 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@87c3ebb
+06-16 01:41:49.495   330   377 D goldfish-address-space: claimShared: Ask to claim region [0x1f0000000 0x1f0968000]
+06-16 01:41:49.497   330   377 D goldfish-address-space: claimShared: Ask to claim region [0x1f31a8000 0x1f3b10000]
+06-16 01:41:49.498   330   377 D goldfish-address-space: claimShared: Ask to claim region [0x1f75ec000 0x1f7f54000]
+06-16 01:41:49.506   525   544 W InputManager-JNI: Input channel object '728bb9c Splash Screen com.example.dogglers (client)' was disposed without first being removed with the input manager!
+06-16 01:41:49.509   525   540 I ActivityTaskManager: Displayed com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +60ms
+06-16 01:41:49.533  6516  6516 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@34a3c6e in: STOPPED
+06-16 01:41:49.535  6516  6516 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.dogglers.HorizontalListActivity@34a3c6e
+06-16 01:41:49.541  6516  6516 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@34a3c6e in: DESTROYED
+06-16 01:41:49.541  6516  6516 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+06-16 01:41:49.546   525   538 W InputManager-JNI: Input channel object 'fc5d9f7 com.example.dogglers/com.example.dogglers.HorizontalListActivity (client)' was disposed without first being removed with the input manager!
+06-16 01:41:49.556   330   377 D goldfish-address-space: claimShared: Ask to claim region [0x1f5678000 0x1f5c7c000]
+06-16 01:41:49.579  6516  6516 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@87c3ebb in: PAUSED
+06-16 01:41:49.579  6516  6516 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@87c3ebb
+06-16 01:41:49.591  6516  6537 I TestRunner: finished: recycler_view_item_count(com.example.dogglers.HorizontalListTests)

@@ -1,0 +1,60 @@
+06-16 01:41:50.141  6516  6537 I TestRunner: started: horizontal_scrolling(com.example.dogglers.HorizontalListTests)
+06-16 01:41:50.144  6516  6516 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@87c3ebb in: DESTROYED
+06-16 01:41:50.146   525  1913 W InputManager-JNI: Input channel object 'e050ee2 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
+06-16 01:41:50.150   363   363 W SurfaceFlinger: couldn't log to binary event log: overflow.
+06-16 01:41:50.155  6516  6537 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-16 01:41:50.177  6516  6516 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@7353a11 in: PRE_ON_CREATE
+06-16 01:41:50.177  6516  6516 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+06-16 01:41:50.182   330   377 D goldfish-address-space: claimShared: Ask to claim region [0x1f2ba4000 0x1f350c000]
+06-16 01:41:50.185   330   377 D goldfish-address-space: claimShared: Ask to claim region [0x1f350c000 0x1f3e74000]
+06-16 01:41:50.186   330   377 D goldfish-address-space: claimShared: Ask to claim region [0x1f0000000 0x1f0968000]
+06-16 01:41:50.200  6516  6516 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@7353a11 in: CREATED
+06-16 01:41:50.200  6516  6516 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.dogglers.HorizontalListActivity@7353a11
+06-16 01:41:50.202  6516  6516 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@7353a11 in: STARTED
+06-16 01:41:50.202  6516  6516 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.dogglers.HorizontalListActivity@7353a11
+06-16 01:41:50.204  6516  6516 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@7353a11 in: RESUMED
+06-16 01:41:50.204   697   928 D EGL_emulation: app_time_stats: avg=82.70ms min=8.61ms max=423.24ms count=14
+06-16 01:41:50.205  6516  6516 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.dogglers.HorizontalListActivity@7353a11
+06-16 01:41:50.207   697   928 D EGL_emulation: app_time_stats: avg=79.78ms min=5.73ms max=384.11ms count=14
+06-16 01:41:50.244   330   377 D goldfish-address-space: claimShared: Ask to claim region [0x1f0968000 0x1f12d0000]
+06-16 01:41:50.246   330   377 D goldfish-address-space: claimShared: Ask to claim region [0x1f12d0000 0x1f1c38000]
+06-16 01:41:50.246   330   377 D goldfish-address-space: claimShared: Ask to claim region [0x1f6c84000 0x1f75ec000]
+06-16 01:41:50.265   525   540 I ActivityTaskManager: Displayed com.example.dogglers/.HorizontalListActivity: +104ms
+06-16 01:41:50.268  1314  1314 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+06-16 01:41:50.268  1314  1314 E HwDetectorWithState: a: 3
+06-16 01:41:50.281  1261  1261 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3306
+06-16 01:41:50.281  1261  1261 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2127 repeatCheckTimes = 0, locked = false
+06-16 01:41:50.281  1261  1261 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1909 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null hintLocales=[]}, false)
+06-16 01:41:50.281  1261  1261 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():1990 ShouldHideHeaderOnInitialState = false
+06-16 01:41:50.283  1261  1261 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2127 repeatCheckTimes = 1, locked = false
+06-16 01:41:50.489  1520  1520 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=83, right=0, bottom=132}
+06-16 01:41:50.489  1520  1520 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=83, right=0, bottom=132}
+06-16 01:41:50.490  6516  6537 W FileTestStorage: Test input args is not supported.
+06-16 01:41:50.494  6516  6516 I ViewInteraction: Performing 'fast swipe' action on view view.getId() is <2131230942/com.example.dogglers:id/horizontal_recycler_view>
+06-16 01:41:50.517   363   363 W SurfaceFlinger: couldn't log to binary event log: overflow.
+06-16 01:41:50.517   363   363 W SurfaceFlinger: couldn't log to binary event log: overflow.
+06-16 01:41:50.541   525  1870 W InputManager-JNI: Input channel object '87e68c0 Splash Screen com.example.dogglers (client)' was disposed without first being removed with the input manager!
+06-16 01:41:50.768  6516  6516 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Frankie"
+06-16 01:41:50.778  6516  6516 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@7353a11 in: PAUSED
+06-16 01:41:50.778  6516  6516 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.dogglers.HorizontalListActivity@7353a11
+06-16 01:41:50.782  6516  6516 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@596fb96 in: PRE_ON_CREATE
+06-16 01:41:50.783  6516  6516 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@596fb96
+06-16 01:41:50.788  6516  6516 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@596fb96 in: CREATED
+06-16 01:41:50.788  6516  6516 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@596fb96
+06-16 01:41:50.790  6516  6516 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@596fb96 in: STARTED
+06-16 01:41:50.791  6516  6516 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@596fb96
+06-16 01:41:50.792  6516  6516 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@596fb96 in: RESUMED
+06-16 01:41:50.792  6516  6516 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@596fb96
+06-16 01:41:50.802   330   377 D goldfish-address-space: claimShared: Ask to claim region [0x1f0000000 0x1f0968000]
+06-16 01:41:50.805   330   377 D goldfish-address-space: claimShared: Ask to claim region [0x1f1c38000 0x1f25a0000]
+06-16 01:41:50.806   330   377 D goldfish-address-space: claimShared: Ask to claim region [0x1f25a0000 0x1f2f08000]
+06-16 01:41:50.816   525   540 I ActivityTaskManager: Displayed com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +42ms
+06-16 01:41:50.828  6516  6516 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@7353a11 in: STOPPED
+06-16 01:41:50.828  6516  6516 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.dogglers.HorizontalListActivity@7353a11
+06-16 01:41:50.829  6516  6516 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@7353a11 in: DESTROYED
+06-16 01:41:50.829  6516  6516 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+06-16 01:41:50.830   525  1870 W InputManager-JNI: Input channel object 'bc2d184 com.example.dogglers/com.example.dogglers.HorizontalListActivity (client)' was disposed without first being removed with the input manager!
+06-16 01:41:50.834   330   377 D goldfish-address-space: claimShared: Ask to claim region [0x1f2f08000 0x1f350c000]
+06-16 01:41:50.845  6516  6516 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@596fb96 in: PAUSED
+06-16 01:41:50.845  6516  6516 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@596fb96
+06-16 01:41:50.851  6516  6537 I TestRunner: finished: horizontal_scrolling(com.example.dogglers.HorizontalListTests)

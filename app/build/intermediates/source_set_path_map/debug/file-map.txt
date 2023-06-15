@@ -1,0 +1,44 @@
+com.example.dogglers.app-jetified-lifecycle-livedata-core-ktx-2.6.1-0 /Users/rishabhaggarwal/.gradle/caches/transforms-3/01156711352f3e42711022fbf5323fc7/transformed/jetified-lifecycle-livedata-core-ktx-2.6.1/res
+com.example.dogglers.app-core-1.10.1-1 /Users/rishabhaggarwal/.gradle/caches/transforms-3/0f6ecaba8231f15e5dab5756efdca1a1/transformed/core-1.10.1/res
+com.example.dogglers.app-fragment-1.6.0-2 /Users/rishabhaggarwal/.gradle/caches/transforms-3/109065e097a3e301718571f77f44d25e/transformed/fragment-1.6.0/res
+com.example.dogglers.app-jetified-lifecycle-viewmodel-savedstate-2.6.1-3 /Users/rishabhaggarwal/.gradle/caches/transforms-3/111ea929f37a31446579993e85b12805/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1/res
+com.example.dogglers.app-jetified-activity-1.6.0-4 /Users/rishabhaggarwal/.gradle/caches/transforms-3/153b42c904cd132e2ca927b0b330b2df/transformed/jetified-activity-1.6.0/res
+com.example.dogglers.app-lifecycle-livedata-core-2.6.1-5 /Users/rishabhaggarwal/.gradle/caches/transforms-3/1652edccfe736601d26163e76ee73083/transformed/lifecycle-livedata-core-2.6.1/res
+com.example.dogglers.app-jetified-fragment-testing-manifest-1.6.0-6 /Users/rishabhaggarwal/.gradle/caches/transforms-3/2087fcad271db67b12077e82c09997b0/transformed/jetified-fragment-testing-manifest-1.6.0/res
+com.example.dogglers.app-jetified-viewpager2-1.0.0-7 /Users/rishabhaggarwal/.gradle/caches/transforms-3/2177d105695a07a35b571145ded21ea6/transformed/jetified-viewpager2-1.0.0/res
+com.example.dogglers.app-jetified-activity-ktx-1.6.0-8 /Users/rishabhaggarwal/.gradle/caches/transforms-3/221d004743e3872b817514c042330a9e/transformed/jetified-activity-ktx-1.6.0/res
+com.example.dogglers.app-appcompat-1.6.1-9 /Users/rishabhaggarwal/.gradle/caches/transforms-3/23f987157c1fc1700a7ae63edebd135f/transformed/appcompat-1.6.1/res
+com.example.dogglers.app-jetified-annotation-experimental-1.3.0-10 /Users/rishabhaggarwal/.gradle/caches/transforms-3/36edffe1d948460f3d6c628f738e71ac/transformed/jetified-annotation-experimental-1.3.0/res
+com.example.dogglers.app-lifecycle-runtime-2.6.1-11 /Users/rishabhaggarwal/.gradle/caches/transforms-3/484d2aaee21faed28d2ad541e848af36/transformed/lifecycle-runtime-2.6.1/res
+com.example.dogglers.app-jetified-profileinstaller-1.3.0-12 /Users/rishabhaggarwal/.gradle/caches/transforms-3/4b5ec932a5dda53dcdfe02e643fdef3b/transformed/jetified-profileinstaller-1.3.0/res
+com.example.dogglers.app-jetified-lifecycle-viewmodel-ktx-2.6.1-13 /Users/rishabhaggarwal/.gradle/caches/transforms-3/4d3ef7abbaed360ac21bf69e86abb3a7/transformed/jetified-lifecycle-viewmodel-ktx-2.6.1/res
+com.example.dogglers.app-jetified-savedstate-ktx-1.2.1-14 /Users/rishabhaggarwal/.gradle/caches/transforms-3/54ebd8055b0de6456d0514c381a9025f/transformed/jetified-savedstate-ktx-1.2.1/res
+com.example.dogglers.app-lifecycle-livedata-2.6.1-15 /Users/rishabhaggarwal/.gradle/caches/transforms-3/5a82e467de8234a87637e9b334bcf11c/transformed/lifecycle-livedata-2.6.1/res
+com.example.dogglers.app-drawerlayout-1.1.1-16 /Users/rishabhaggarwal/.gradle/caches/transforms-3/61283b9564ecb591ff0860a8e5b8e699/transformed/drawerlayout-1.1.1/res
+com.example.dogglers.app-recyclerview-1.1.0-17 /Users/rishabhaggarwal/.gradle/caches/transforms-3/64a7905405860fb36724fc2781749b0c/transformed/recyclerview-1.1.0/res
+com.example.dogglers.app-jetified-startup-runtime-1.1.1-18 /Users/rishabhaggarwal/.gradle/caches/transforms-3/72d9a1e09aef9d5a65f2c76a7fe40466/transformed/jetified-startup-runtime-1.1.1/res
+com.example.dogglers.app-jetified-lifecycle-process-2.6.1-19 /Users/rishabhaggarwal/.gradle/caches/transforms-3/732d54ce136760f1dace17a3d5f48dea/transformed/jetified-lifecycle-process-2.6.1/res
+com.example.dogglers.app-jetified-appcompat-resources-1.6.1-20 /Users/rishabhaggarwal/.gradle/caches/transforms-3/741150845e7e917672d444086c240a14/transformed/jetified-appcompat-resources-1.6.1/res
+com.example.dogglers.app-material-1.9.0-21 /Users/rishabhaggarwal/.gradle/caches/transforms-3/74783ffc43f63c2fef5a147903bd8deb/transformed/material-1.9.0/res
+com.example.dogglers.app-jetified-emoji2-views-helper-1.2.0-22 /Users/rishabhaggarwal/.gradle/caches/transforms-3/751ebf64f370f416aaaa8058939cc4b4/transformed/jetified-emoji2-views-helper-1.2.0/res
+com.example.dogglers.app-jetified-fragment-testing-1.6.0-23 /Users/rishabhaggarwal/.gradle/caches/transforms-3/7be068d0e30ce2d328a738bfb04380b0/transformed/jetified-fragment-testing-1.6.0/res
+com.example.dogglers.app-jetified-core-1.5.0-24 /Users/rishabhaggarwal/.gradle/caches/transforms-3/86c3ab710f3ebdbdf581219fc55c0da2/transformed/jetified-core-1.5.0/res
+com.example.dogglers.app-jetified-core-ktx-1.10.1-25 /Users/rishabhaggarwal/.gradle/caches/transforms-3/967f0783a76be3ecdbc505652e9f28d0/transformed/jetified-core-ktx-1.10.1/res
+com.example.dogglers.app-coordinatorlayout-1.1.0-26 /Users/rishabhaggarwal/.gradle/caches/transforms-3/96b995c2a644259c2374c012b4349ab1/transformed/coordinatorlayout-1.1.0/res
+com.example.dogglers.app-core-runtime-2.2.0-27 /Users/rishabhaggarwal/.gradle/caches/transforms-3/a1b90d44dec3a22eb7e67317117b1059/transformed/core-runtime-2.2.0/res
+com.example.dogglers.app-cardview-1.0.0-28 /Users/rishabhaggarwal/.gradle/caches/transforms-3/a39182b0509048c0edf890d37eac5b54/transformed/cardview-1.0.0/res
+com.example.dogglers.app-jetified-emoji2-1.2.0-29 /Users/rishabhaggarwal/.gradle/caches/transforms-3/aa828308f78ec4a4c8d60f1f8abe99ef/transformed/jetified-emoji2-1.2.0/res
+com.example.dogglers.app-media-1.0.0-30 /Users/rishabhaggarwal/.gradle/caches/transforms-3/ab36258deed72a8eb1b3328cf45ab43c/transformed/media-1.0.0/res
+com.example.dogglers.app-jetified-lifecycle-runtime-ktx-2.6.1-31 /Users/rishabhaggarwal/.gradle/caches/transforms-3/abcb561c0ff6c813f94ad3eb83632fd0/transformed/jetified-lifecycle-runtime-ktx-2.6.1/res
+com.example.dogglers.app-constraintlayout-2.1.4-32 /Users/rishabhaggarwal/.gradle/caches/transforms-3/b978021efdacfbf8d20b5189ba2f3be1/transformed/constraintlayout-2.1.4/res
+com.example.dogglers.app-lifecycle-viewmodel-2.6.1-33 /Users/rishabhaggarwal/.gradle/caches/transforms-3/e2a015561410165d188f46fde92e1e6e/transformed/lifecycle-viewmodel-2.6.1/res
+com.example.dogglers.app-jetified-savedstate-1.2.1-34 /Users/rishabhaggarwal/.gradle/caches/transforms-3/f2580df1e7354e7db7aa2f14b28cffdc/transformed/jetified-savedstate-1.2.1/res
+com.example.dogglers.app-jetified-fragment-ktx-1.6.0-35 /Users/rishabhaggarwal/.gradle/caches/transforms-3/f8c3e80f8159b104718ea75075bb2d8c/transformed/jetified-fragment-ktx-1.6.0/res
+com.example.dogglers.app-transition-1.2.0-36 /Users/rishabhaggarwal/.gradle/caches/transforms-3/f93760a64a62c0901768e79ffcd0470f/transformed/transition-1.2.0/res
+com.example.dogglers.app-pngs-37 /Users/rishabhaggarwal/Desktop/coding /Android Development/android-basics-kotlin-dogglers-app-main/app/build/generated/res/pngs/debug
+com.example.dogglers.app-resValues-38 /Users/rishabhaggarwal/Desktop/coding /Android Development/android-basics-kotlin-dogglers-app-main/app/build/generated/res/resValues/debug
+com.example.dogglers.app-mergeDebugResources-39 /Users/rishabhaggarwal/Desktop/coding /Android Development/android-basics-kotlin-dogglers-app-main/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.dogglers.app-mergeDebugResources-40 /Users/rishabhaggarwal/Desktop/coding /Android Development/android-basics-kotlin-dogglers-app-main/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.dogglers.app-merged_res-41 /Users/rishabhaggarwal/Desktop/coding /Android Development/android-basics-kotlin-dogglers-app-main/app/build/intermediates/merged_res/debug
+com.example.dogglers.app-debug-42 /Users/rishabhaggarwal/Desktop/coding /Android Development/android-basics-kotlin-dogglers-app-main/app/src/debug/res
+com.example.dogglers.app-main-43 /Users/rishabhaggarwal/Desktop/coding /Android Development/android-basics-kotlin-dogglers-app-main/app/src/main/res
